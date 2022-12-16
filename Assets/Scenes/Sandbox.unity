@@ -865,11 +865,11 @@ PrefabInstance:
     - target: {fileID: 1846349108, guid: 810fe7ed559f2da4ca69c3e5b50b8d3e, type: 3}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 819822853}
     - target: {fileID: 1846349108, guid: 810fe7ed559f2da4ca69c3e5b50b8d3e, type: 3}
       propertyPath: areaLight
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2104909288}
     - target: {fileID: 1846349108, guid: 810fe7ed559f2da4ca69c3e5b50b8d3e, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -877,11 +877,11 @@ PrefabInstance:
     - target: {fileID: 1846349108, guid: 810fe7ed559f2da4ca69c3e5b50b8d3e, type: 3}
       propertyPath: mainWorldLight
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1777563167}
     - target: {fileID: 1846349108, guid: 810fe7ed559f2da4ca69c3e5b50b8d3e, type: 3}
       propertyPath: teleportTarget
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1402688415}
     - target: {fileID: 1846349108, guid: 810fe7ed559f2da4ca69c3e5b50b8d3e, type: 3}
       propertyPath: teleportTargetsArray.Array.size
       value: 2
@@ -5933,6 +5933,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 711657b179c657e4a9b8b1d4381e8467, type: 3}
+--- !u!108 &2104909288 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 8344315865710370890, guid: 810fe7ed559f2da4ca69c3e5b50b8d3e, type: 3}
+  m_PrefabInstance: {fileID: 220644671}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2110999138
 PrefabInstance:
   m_ObjectHideFlags: 0
